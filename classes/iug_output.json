@@ -1,0 +1,5094 @@
+[
+    {
+        "Subject": "Introduction to computer science M",
+        "Type": "P",
+        "Lecturer": "salim jamil alyazji",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K217",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Introduction to computer science F",
+        "Type": "P",
+        "Lecturer": "salim jamil alyazji",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K404",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Introduction to computing M",
+        "Type": "P",
+        "Lecturer": "Ehab Mahmoud Mortaja",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K403",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Introduction to computing F",
+        "Type": "P",
+        "Lecturer": "Ehab Mahmoud Mortaja",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L304",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Programming (1) M",
+        "Type": "P",
+        "Lecturer": "Iyad Mohamed Agha",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K403",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Programming (1) M",
+        "Type": "P",
+        "Lecturer": "Khaled Mohamed Ismail",
+        "Group": [
+            "103",
+            "104"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K203",
+        "assigned_time": [
+            13,
+            29
+        ]
+    },
+    {
+        "Subject": "Programming (1) F",
+        "Type": "P",
+        "Lecturer": "Iyad Hosni Shami",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L303",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Discrete Mathematics M",
+        "Type": "P",
+        "Lecturer": "Ayman Saqqa",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K216",
+        "assigned_time": [
+            3,
+            19,
+            35
+        ]
+    },
+    {
+        "Subject": "Discrete mathematics for mobile computing M",
+        "Type": "P",
+        "Lecturer": "Ashraf Abu Mughaiseeb",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K317",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Discrete mathematics for mobile computing F",
+        "Type": "P",
+        "Lecturer": "Ashraf Abu Mughaiseeb",
+        "Group": [
+            "150"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L304",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Discrete mathematics F",
+        "Type": "P",
+        "Lecturer": "Faten Abu Shawqa",
+        "Group": [
+            "201",
+            "250"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L303",
+        "assigned_time": [
+            9,
+            25
+        ]
+    },
+    {
+        "Subject": "Data structures and algorithms M",
+        "Type": "P",
+        "Lecturer": "Basem Omar Al-Ejla",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K304",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Data structures and algorithms F",
+        "Type": "P",
+        "Lecturer": "Basem Omar Al-Ejla",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L217",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Programming language principles M",
+        "Type": "P",
+        "Lecturer": "Salem Jamil Yaziji",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I601",
+        "assigned_time": [
+            13,
+            29
+        ]
+    },
+    {
+        "Subject": "Programming language principles F",
+        "Type": "P",
+        "Lecturer": "Salem Jamil Yaziji",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I219",
+        "assigned_time": [
+            3,
+            19,
+            35
+        ]
+    },
+    {
+        "Subject": "Operating Systems M",
+        "Type": "P",
+        "Lecturer": "Ehab Mahmoud Murtaja",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K403",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Operating Systems F",
+        "Type": "P",
+        "Lecturer": "Ehab Mahmoud Murtaja",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L304",
+        "assigned_time": [
+            10,
+            26
+        ]
+    },
+    {
+        "Subject": "Software Engineering M",
+        "Type": "P",
+        "Lecturer": "Abdul Karim Mahmoud Al-Ashqar",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I408",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Software Engineering F",
+        "Type": "P",
+        "Lecturer": "Abdul Karim Mahmoud Al-Ashqar",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I202",
+        "assigned_time": [
+            12,
+            28
+        ]
+    },
+    {
+        "Subject": "Database (1) M",
+        "Type": "P",
+        "Lecturer": "Tawfiq Suleiman Barhoum",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K217",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Database (1) F",
+        "Type": "P",
+        "Lecturer": "Tawfiq Suleiman Barhoum",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L303",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Analysis and design of algorithms M",
+        "Type": "P",
+        "Lecturer": "Basem Omar Al-Ejla",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K304",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Analysis and design of algorithms F",
+        "Type": "P",
+        "Lecturer": "Basem Omar Al-Ejla",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L304",
+        "assigned_time": [
+            8,
+            24
+        ]
+    },
+    {
+        "Subject": "Graduation Research M",
+        "Type": "P",
+        "Lecturer": "Khaled Mohamed Ismail",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "1",
+        "assigned_classroom": "K317"
+    },
+    {
+        "Subject": "Graduation Research F",
+        "Type": "P",
+        "Lecturer": "Khaled Mohamed Ismail",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "1",
+        "assigned_classroom": "L303"
+    },
+    {
+        "Subject": "Computer Graphics M",
+        "Type": "P",
+        "Lecturer": "Ehab Mahmoud Mortaja",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I603",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Computer Graphics F",
+        "Type": "P",
+        "Lecturer": "Ehab Mahmoud Mortaja",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I107",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Database management systems (1) M",
+        "Type": "P",
+        "Lecturer": "Omar Emad Al-Ejla",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I308",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Database management systems (1) F",
+        "Type": "P",
+        "Lecturer": "Omar Emad Al-Ejla",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I307",
+        "assigned_time": [
+            3,
+            19,
+            35
+        ]
+    },
+    {
+        "Subject": "Web Development and Programming (1) M",
+        "Type": "P",
+        "Lecturer": "Thaer Al-Habbash",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K217",
+        "assigned_time": [
+            9,
+            25
+        ]
+    },
+    {
+        "Subject": "Web Development and Programming  (1) F",
+        "Type": "P",
+        "Lecturer": "Thaer Al-Habbash",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L303",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Database management systems (2) M",
+        "Type": "P",
+        "Lecturer": "Iyad Hosni Shami",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K403",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Database management systems (2) F",
+        "Type": "P",
+        "Lecturer": "Iyad Hosni Shami",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "1",
+        "assigned_classroom": "L203"
+    },
+    {
+        "Subject": "Computer Security M",
+        "Type": "P",
+        "Lecturer": "Tawfiq Suleiman Barhoum",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I301",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Computer Security F",
+        "Type": "P",
+        "Lecturer": "Tawfiq Suleiman Barhoum",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I107",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Mobile Computing M",
+        "Type": "P",
+        "Lecturer": "Iyad Mohamed Agha",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I603",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Mobile Computing F",
+        "Type": "P",
+        "Lecturer": "Iyad Mohamed Agha",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I201",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Cloud and distributed systems M",
+        "Type": "P",
+        "Lecturer": "Rebhi Suleiman Baraka",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I308",
+        "assigned_time": [
+            13,
+            29
+        ]
+    },
+    {
+        "Subject": "Cloud and distributed systems F",
+        "Type": "P",
+        "Lecturer": "Rebhi Suleiman Baraka",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I101",
+        "assigned_time": [
+            13,
+            29
+        ]
+    },
+    {
+        "Subject": "Software engineering principles M",
+        "Type": "P",
+        "Lecturer": "Khaled Mohamed Ismail",
+        "Group": [
+            "101",
+            "103"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I415",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Software engineering principles F",
+        "Type": "P",
+        "Lecturer": "Tamer Nazir Madi",
+        "Group": [
+            "150",
+            "201",
+            "250"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L303",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Requirment Engineering M",
+        "Type": "P",
+        "Lecturer": "Alaa Mustafa Al Halees",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K316",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Requirment Engineering F",
+        "Type": "P",
+        "Lecturer": "Alaa Mustafa Al Halees",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L216",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Software Engineering (2) M",
+        "Type": "P",
+        "Lecturer": "Abdul Karim Mahmoud Al-Ashqar",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I116",
+        "assigned_time": [
+            13,
+            29
+        ]
+    },
+    {
+        "Subject": "Software Engineering (2) F",
+        "Type": "P",
+        "Lecturer": "Abdul Karim Mahmoud Al-Ashqar",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I102",
+        "assigned_time": [
+            8,
+            24
+        ]
+    },
+    {
+        "Subject": "Software Projects Management M",
+        "Type": "P",
+        "Lecturer": "Rebhi Suleiman Baraka",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K216",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Software Projects Management F",
+        "Type": "P",
+        "Lecturer": "Rebhi Suleiman Baraka",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I218",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Quality Assurance M",
+        "Type": "P",
+        "Lecturer": "Ahmed Adnan Al-Qazzaz",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K316",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Quality Assurance F",
+        "Type": "P",
+        "Lecturer": "Ahmed Adnan Al-Qazzaz",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I208",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Software Security M",
+        "Type": "P",
+        "Lecturer": "Raed Mohammed Ibrahim Bulbul",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K316",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Software Security F",
+        "Type": "P",
+        "Lecturer": "Raed Mohammed Ibrahim Bulbul",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L217",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Software engineering for web service M",
+        "Type": "P",
+        "Lecturer": "Rebhi Suleiman Baraka",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K216",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Software engineering for web service F",
+        "Type": "P",
+        "Lecturer": "Rebhi Suleiman Baraka",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I102",
+        "assigned_time": [
+            3,
+            19,
+            35
+        ]
+    },
+    {
+        "Subject": "Introduction to computers and the Internet M",
+        "Type": "P",
+        "Lecturer": "Raed Saeed Rashid",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K216",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Introduction to computers and the Internet F",
+        "Type": "P",
+        "Lecturer": "Lamia Mohammed Al-Saeedi",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L303",
+        "assigned_time": [
+            12,
+            28
+        ]
+    },
+    {
+        "Subject": "Media programing (1) M",
+        "Type": "P",
+        "Lecturer": "Tamer Nazir Madi",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K203",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Media programing (1) F",
+        "Type": "P",
+        "Lecturer": "Rawya Fawzy Awad Allah",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L216",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Multimedia technology and its composition M",
+        "Type": "P",
+        "Lecturer": "Ramy Othman Skaik",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K304",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "Multimedia technology and its composition F",
+        "Type": "P",
+        "Lecturer": "Lamia Mohammed Al-Saeedi",
+        "Group": [
+            "150",
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L204",
+        "assigned_time": [
+            9,
+            25
+        ]
+    },
+    {
+        "Subject": "Data Visualization M",
+        "Type": "P",
+        "Lecturer": "Raed Saeed Rashid",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K317",
+        "assigned_time": [
+            3,
+            19,
+            35
+        ]
+    },
+    {
+        "Subject": "Data Visualization F",
+        "Type": "P",
+        "Lecturer": "Raed Saeed Rashid",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L304",
+        "assigned_time": [
+            8,
+            24
+        ]
+    },
+    {
+        "Subject": "Web Development (1) M",
+        "Type": "P",
+        "Lecturer": "Salem Jamil Yaziji",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K204",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Web Development (1) F",
+        "Type": "P",
+        "Lecturer": "Rawya Fawzy Awad Allah",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L203",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Multimedia and web databases M",
+        "Type": "P",
+        "Lecturer": "Raed Saeed Rashid",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K217",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Multimedia and web databases F",
+        "Type": "P",
+        "Lecturer": "Lamia Mohammed Al-Saeedi",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L217",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Digital photo and sound editing M",
+        "Type": "P",
+        "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "K404",
+        "assigned_time": [
+            6,
+            38
+        ]
+    },
+    {
+        "Subject": "Digital photo and sound editing F",
+        "Type": "P",
+        "Lecturer": "Lamia Mohammed Al-Saeedi",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "L303",
+        "assigned_time": [
+            13,
+            29
+        ]
+    },
+    {
+        "Subject": "Computer Animation M",
+        "Type": "P",
+        "Lecturer": "Ramy Othman Skaik",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K204",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Computer Animation F",
+        "Type": "P",
+        "Lecturer": "Ramy Othman Skaik",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L216",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Multimedia project management M",
+        "Type": "P",
+        "Lecturer": "Ashraf Younes Mghari",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K404",
+        "assigned_time": [
+            9,
+            25
+        ]
+    },
+    {
+        "Subject": "Multimedia project management F",
+        "Type": "P",
+        "Lecturer": "Ashraf Younes Mghari",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L216",
+        "assigned_time": [
+            11,
+            27
+        ]
+    },
+    {
+        "Subject": "3D Modeling M",
+        "Type": "P",
+        "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K317",
+        "assigned_time": [
+            12,
+            28
+        ]
+    },
+    {
+        "Subject": "3D Modeling F",
+        "Type": "P",
+        "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L217",
+        "assigned_time": [
+            8,
+            24
+        ]
+    },
+    {
+        "Subject": "Web Security M",
+        "Type": "P",
+        "Lecturer": "Raed Mohammed Ibrahim Bulbul",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K317",
+        "assigned_time": [
+            3,
+            19,
+            35
+        ]
+    },
+    {
+        "Subject": "Web Security F",
+        "Type": "P",
+        "Lecturer": "Raed Mohammed Ibrahim Bulbul",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "1",
+        "assigned_classroom": "L303"
+    },
+    {
+        "Subject": "Mobile Applications M",
+        "Type": "P",
+        "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K204",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Mobile Applications F",
+        "Type": "P",
+        "Lecturer": "Fayez Bdir",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L203",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Web topics M",
+        "Type": "P",
+        "Lecturer": "Mohamed Ahmed Mustafa Al-Agha",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K216",
+        "assigned_time": [
+            12,
+            28
+        ]
+    },
+    {
+        "Subject": "Web topics F",
+        "Type": "P",
+        "Lecturer": "Mohamed Ahmed Mustafa Al-Agha",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L304",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Mobile Applications Programming (1) M",
+        "Type": "P",
+        "Lecturer": "Hazem Awni Shehadeh Rikhawi",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I307",
+        "assigned_time": [
+            8,
+            24
+        ]
+    },
+    {
+        "Subject": "Mobile Applications Programming (1) F",
+        "Type": "P",
+        "Lecturer": "Hazem Awni Shehadeh Rikhawi",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I607",
+        "assigned_time": [
+            3,
+            19,
+            35
+        ]
+    },
+    {
+        "Subject": "Mobile Applications Programming (3) M",
+        "Type": "P",
+        "Lecturer": "Ahmed Adnan Al-Qazzaz",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I319",
+        "assigned_time": [
+            12,
+            28
+        ]
+    },
+    {
+        "Subject": "Mobile Applications Programming (3) F",
+        "Type": "P",
+        "Lecturer": "Ahmed Adnan Al-Qazzaz",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I208",
+        "assigned_time": [
+            8,
+            24
+        ]
+    },
+    {
+        "Subject": "Ubiquitous computing M",
+        "Type": "P",
+        "Lecturer": "Mohamed Ahmed Mustafa Al-Agha",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I601",
+        "assigned_time": [
+            5,
+            21,
+            37
+        ]
+    },
+    {
+        "Subject": "Ubiquitous computing F",
+        "Type": "P",
+        "Lecturer": "Mohamed Ahmed Mustafa Al-Agha",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I208",
+        "assigned_time": [
+            10,
+            26
+        ]
+    },
+    {
+        "Subject": "Network applications for smart devices M",
+        "Type": "P",
+        "Lecturer": "Omar Emad Al-Ejla",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I307",
+        "assigned_time": [
+            0,
+            16,
+            32
+        ]
+    },
+    {
+        "Subject": "Network applications for smart devices F",
+        "Type": "P",
+        "Lecturer": "Omar Emad Al-Ejla",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "I207",
+        "assigned_time": [
+            1,
+            17,
+            33
+        ]
+    },
+    {
+        "Subject": "Software check for smart devices M",
+        "Type": "P",
+        "Lecturer": "Ahmed Adnan Al-Qazzaz",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K204",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Software check for smart devices F",
+        "Type": "P",
+        "Lecturer": "Ahmed Adnan Al-Qazzaz",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K216",
+        "assigned_time": [
+            4,
+            20,
+            36
+        ]
+    },
+    {
+        "Subject": "Freelancing and earning money online M",
+        "Type": "P",
+        "Lecturer": "Moataz Khaled Saed",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "K203",
+            "K204",
+            "K216",
+            "K403",
+            "K316",
+            "K217",
+            "K303",
+            "K304",
+            "K317",
+            "K404"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "K217",
+        "assigned_time": [
+            13,
+            29
+        ]
+    },
+    {
+        "Subject": "Freelancing and earning money online F",
+        "Type": "P",
+        "Lecturer": "Moataz Khaled Saed",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "L203",
+            "L204",
+            "L303",
+            "L217",
+            "L216",
+            "L303",
+            "L304"
+        ],
+        "Duration": "3",
+        "assigned_classroom": "L217",
+        "assigned_time": [
+            2,
+            18,
+            34
+        ]
+    },
+    {
+        "Subject": "Introduction to Computing - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I407",
+        "assigned_time": 4
+    },
+    {
+        "Subject": "Introduction to Computing - Practical M",
+        "Type": "V",
+        "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+        "Group": [
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I307",
+        "assigned_time": 38
+    },
+    {
+        "Subject": "Introduction to Computing - Practical M",
+        "Type": "V",
+        "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+        "Group": [
+            "103"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I603",
+        "assigned_time": 28
+    },
+    {
+        "Subject": "Introduction to Computing - Practical M",
+        "Type": "V",
+        "Lecturer": "Izz El-Din Abu Jabal",
+        "Group": [
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I408",
+        "assigned_time": 8
+    },
+    {
+        "Subject": "Introduction to Computing - Practical M",
+        "Type": "V",
+        "Lecturer": "Tamer Al Nuaizy",
+        "Group": [
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I302",
+        "assigned_time": 8
+    },
+    {
+        "Subject": "Introduction to Computing - Practical F",
+        "Type": "V",
+        "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
+        "Group": [
+            "201",
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I201",
+        "assigned_time": 32
+    },
+    {
+        "Subject": "Introduction to Computing - Practical F",
+        "Type": "V",
+        "Lecturer": "Duha Ziyad Mahmoud Nassar",
+        "Group": [
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I218",
+        "assigned_time": 27
+    },
+    {
+        "Subject": "Programming (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Mahmoud Mohamed Badr Haboub",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I603",
+        "assigned_time": 25
+    },
+    {
+        "Subject": "Programming (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+        "Group": [
+            "107",
+            "108",
+            "111"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I308",
+        "assigned_time": 36
+    },
+    {
+        "Subject": "Programming (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Mahmoud Mohamed Badr Haboub",
+        "Group": [
+            "109",
+            "110"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I415",
+        "assigned_time": 21
+    },
+    {
+        "Subject": "Programming (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Abdel Aziz Mohamed Souissi",
+        "Group": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I207",
+        "assigned_time": 19
+    },
+    {
+        "Subject": "Data Structures and Algorithms - Practical M",
+        "Type": "V",
+        "Lecturer": "Al-Hassan Ahmad Hassan Al-Khatib",
+        "Group": [
+            "101",
+            "102",
+            "104"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I302",
+        "assigned_time": 5
+    },
+    {
+        "Subject": "Data Structures and Algorithms - Practical M",
+        "Type": "V",
+        "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+        "Group": [
+            "103",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I319",
+        "assigned_time": 4
+    },
+    {
+        "Subject": "Data Structures and Algorithms - Practical F",
+        "Type": "V",
+        "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
+        "Group": [
+            "201",
+            "202",
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I202",
+        "assigned_time": 35
+    },
+    {
+        "Subject": "Databases (1) - practical M",
+        "Type": "V",
+        "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I302",
+        "assigned_time": 11
+    },
+    {
+        "Subject": "Databases (1) - practical F",
+        "Type": "V",
+        "Lecturer": "Ghada Samir Mohamed Shehadeh",
+        "Group": [
+            "201",
+            "202",
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I307",
+        "assigned_time": 21
+    },
+    {
+        "Subject": "Operating systems - practical M",
+        "Type": "V",
+        "Lecturer": "Tamer Al Nuaizy",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I607",
+        "assigned_time": 21
+    },
+    {
+        "Subject": "Operating systems - practical F",
+        "Type": "V",
+        "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
+        "Group": [
+            "201",
+            "202",
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I107",
+        "assigned_time": 17
+    },
+    {
+        "Subject": "Database Systems 1 - Practical M",
+        "Type": "V",
+        "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I302",
+        "assigned_time": 10
+    },
+    {
+        "Subject": "Database Systems 1 - Practical F",
+        "Type": "V",
+        "Lecturer": "Ghada Samir Mohamed Shehadeh",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I202",
+        "assigned_time": 2
+    },
+    {
+        "Subject": "Web Programming (1) Practical M",
+        "Type": "V",
+        "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I301",
+        "assigned_time": 16
+    },
+    {
+        "Subject": "Web Programming (1) Practical F",
+        "Type": "V",
+        "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
+        "Group": [
+            "201",
+            "202",
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I202",
+        "assigned_time": 34
+    },
+    {
+        "Subject": "Database Systems 2 - Practical M",
+        "Type": "V",
+        "Lecturer": "Saad Tariq Saadi Daher",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I318",
+        "assigned_time": 27
+    },
+    {
+        "Subject": "Database Systems 2 - Practical F",
+        "Type": "V",
+        "Lecturer": "Iman Nabil Ahmed Ghabayen",
+        "Group": [
+            "202",
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I218",
+        "assigned_time": 33
+    },
+    {
+        "Subject": "Database Systems 2 - Practical F",
+        "Type": "V",
+        "Lecturer": "Iman Nabil Ahmed Ghabayen",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I207",
+        "assigned_time": 1
+    },
+    {
+        "Subject": "Multimedia Technology and Its Composition - Practical M",
+        "Type": "V",
+        "Lecturer": "Izz El-Din Abu Jabal",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I318",
+        "assigned_time": 11
+    },
+    {
+        "Subject": "Multimedia Technology and Its Composition - Practical F",
+        "Type": "V",
+        "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I202",
+        "assigned_time": 22
+    },
+    {
+        "Subject": "Multimedia Technology and Its Composition - Practical F",
+        "Type": "V",
+        "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+        "Group": [
+            "203",
+            "204",
+            "205",
+            "206"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I202",
+        "assigned_time": 2
+    },
+    {
+        "Subject": "Multimedia Programming (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I601",
+        "assigned_time": 19
+    },
+    {
+        "Subject": "Multimedia Programming (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Aya Al-Nabih",
+        "Group": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 37
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical M",
+        "Type": "V",
+        "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+        "Group": [
+            "101"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I302",
+        "assigned_time": 12
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+        "Group": [
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I117",
+        "assigned_time": 24
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical M",
+        "Type": "V",
+        "Lecturer": "Izz El-Din Abu Jabal",
+        "Group": [
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I116",
+        "assigned_time": 20
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical M",
+        "Type": "V",
+        "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+        "Group": [
+            "106",
+            "108"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I603",
+        "assigned_time": 25
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical M",
+        "Type": "V",
+        "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+        "Group": [
+            "107",
+            "109",
+            "110"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I307",
+        "assigned_time": 17
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical M",
+        "Type": "V",
+        "Lecturer": "Tamer Al Nuaizy",
+        "Group": [
+            "111"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I318",
+        "assigned_time": 33
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical M",
+        "Type": "V",
+        "Lecturer": "Fawzi Al-Masry",
+        "Group": [
+            "112"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I603",
+        "assigned_time": 22
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical F",
+        "Type": "V",
+        "Lecturer": "Fawzi Al-Masry",
+        "Group": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I519",
+        "assigned_time": 8
+    },
+    {
+        "Subject": "Introduction to Computer and the Internet - Practical F",
+        "Type": "V",
+        "Lecturer": "Randa Magdy Mahmoud Shehadeh",
+        "Group": [
+            "207",
+            "208"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I602",
+        "assigned_time": 20
+    },
+    {
+        "Subject": "Engineering drawing - practical M",
+        "Type": "V",
+        "Lecturer": "Amr Al-Halis",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I117",
+        "assigned_time": 0
+    },
+    {
+        "Subject": "Engineering drawing - practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Helles",
+        "Group": [
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I607",
+        "assigned_time": 2
+    },
+    {
+        "Subject": "Multimedia and web databases - practical M",
+        "Type": "V",
+        "Lecturer": "Saad Tariq Saadi Daher",
+        "Group": [
+            "101",
+            "103",
+            "104",
+            "105",
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I117",
+        "assigned_time": 28
+    },
+    {
+        "Subject": "Multimedia and web databases - practical M",
+        "Type": "V",
+        "Lecturer": "Saad Tariq Saadi Daher",
+        "Group": [
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I607",
+        "assigned_time": 0
+    },
+    {
+        "Subject": "Multimedia and web databases - practical F",
+        "Type": "V",
+        "Lecturer": "Abdullah Shiblaq",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I307",
+        "assigned_time": 35
+    },
+    {
+        "Subject": "Multimedia and web databases - practical F",
+        "Type": "V",
+        "Lecturer": "Randa Magdy Mahmoud Shehadeh",
+        "Group": [
+            "203",
+            "204",
+            "205",
+            "206"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 32
+    },
+    {
+        "Subject": "Digital photo and sound editing - practical M",
+        "Type": "V",
+        "Lecturer": "Osama Abu Assi",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I319",
+        "assigned_time": 18
+    },
+    {
+        "Subject": "Digital photo and sound editing - practical F",
+        "Type": "V",
+        "Lecturer": "Narmin Azzam Hashem Sesalem",
+        "Group": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 10
+    },
+    {
+        "Subject": "Web Development (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+        "Group": [
+            "101",
+            "102",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I601",
+        "assigned_time": 38
+    },
+    {
+        "Subject": "Web Development (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+        "Group": [
+            "106",
+            "107",
+            "108"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I117",
+        "assigned_time": 36
+    },
+    {
+        "Subject": "Web Development (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+        "Group": [
+            "103",
+            "111"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I116",
+        "assigned_time": 19
+    },
+    {
+        "Subject": "Web Development (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+        "Group": [
+            "109",
+            "110"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I408",
+        "assigned_time": 6
+    },
+    {
+        "Subject": "Web Development (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Ali Muhammad Othman Agha",
+        "Group": [
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I607",
+        "assigned_time": 29
+    },
+    {
+        "Subject": "Web Development (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Ali Muhammad Othman Agha",
+        "Group": [
+            "201",
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I107",
+        "assigned_time": 8
+    },
+    {
+        "Subject": "Web Development (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Jumana Sami Yusuf Nofal",
+        "Group": [
+            "204",
+            "207"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I218",
+        "assigned_time": 13
+    },
+    {
+        "Subject": "Web Development (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Jumana Sami Yusuf Nofal",
+        "Group": [
+            "205",
+            "206",
+            "208"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 28
+    },
+    {
+        "Subject": "Web Development (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Ayman Abu Nqira",
+        "Group": [
+            "252"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I307",
+        "assigned_time": 22
+    },
+    {
+        "Subject": "Data visualization - practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Abu Warda",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I116",
+        "assigned_time": 11
+    },
+    {
+        "Subject": "Data visualization - practical F",
+        "Type": "V",
+        "Lecturer": "Hossam Shallah",
+        "Group": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 17
+    },
+    {
+        "Subject": "Computer Animation - practical M",
+        "Type": "V",
+        "Lecturer": "Osama Abu Assi",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I603",
+        "assigned_time": 8
+    },
+    {
+        "Subject": "Computer Animation - practical F",
+        "Type": "V",
+        "Lecturer": "Amir al-Tilbani",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 30
+    },
+    {
+        "Subject": "Computer Animation - practical F",
+        "Type": "V",
+        "Lecturer": "Narmin Azzam Hashem Sesalem",
+        "Group": [
+            "202",
+            "203",
+            "204",
+            "205"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I307",
+        "assigned_time": 22
+    },
+    {
+        "Subject": "Multimedia Project Management - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Raed Siam",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I308",
+        "assigned_time": 12
+    },
+    {
+        "Subject": "Multimedia Project Management - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Raed Siam",
+        "Group": [
+            "104"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I607",
+        "assigned_time": 10
+    },
+    {
+        "Subject": "Multimedia Project Management - Practical F",
+        "Type": "V",
+        "Lecturer": "Hossam Shallah",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I602",
+        "assigned_time": 8
+    },
+    {
+        "Subject": "Multimedia Project Management - Practical F",
+        "Type": "V",
+        "Lecturer": "Khetam Ziad Abd Moqat",
+        "Group": [
+            "202",
+            "203",
+            "204",
+            "205"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 11
+    },
+    {
+        "Subject": "3D Modeling - Practical M",
+        "Type": "V",
+        "Lecturer": "Amir al-Tilbani",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I318",
+        "assigned_time": 26
+    },
+    {
+        "Subject": "3D Modeling - Practical F",
+        "Type": "V",
+        "Lecturer": "Amir al-Tilbani",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I307",
+        "assigned_time": 38
+    },
+    {
+        "Subject": "3D Modeling - Practical F",
+        "Type": "V",
+        "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+        "Group": [
+            "202",
+            "203",
+            "204",
+            "205"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 36
+    },
+    {
+        "Subject": "Web Security - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+        "Group": [
+            "101",
+            "102",
+            "103"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I607",
+        "assigned_time": 13
+    },
+    {
+        "Subject": "Web Security - Practical M",
+        "Type": "V",
+        "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+        "Group": [
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I301",
+        "assigned_time": 34
+    },
+    {
+        "Subject": "Web Security - Practical F",
+        "Type": "V",
+        "Lecturer": "Nada Hassan Mohammed Shamaa",
+        "Group": [
+            "203"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I207",
+        "assigned_time": 34
+    },
+    {
+        "Subject": "Web Security - Practical F",
+        "Type": "V",
+        "Lecturer": "Nada Hassan Mohammed Shamaa",
+        "Group": [
+            "201",
+            "202",
+            "204",
+            "205"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I102",
+        "assigned_time": 6
+    },
+    {
+        "Subject": "Mobile Applications - Practical M",
+        "Type": "V",
+        "Lecturer": "Mahmoud Maher Ibrahim Hamid",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I408",
+        "assigned_time": 24
+    },
+    {
+        "Subject": "Mobile Applications - Practical F",
+        "Type": "V",
+        "Lecturer": "Alaa Al-Shurafa",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I219",
+        "assigned_time": 13
+    },
+    {
+        "Subject": "Mobile Applications Programming (1) - Practical M",
+        "Type": "V",
+        "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+        "Group": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I302",
+        "assigned_time": 14
+    },
+    {
+        "Subject": "Mobile Applications Programming (1) - Practical F",
+        "Type": "V",
+        "Lecturer": "Duha Ziyad Mahmoud Nassar",
+        "Group": [
+            "201",
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I602",
+        "assigned_time": 10
+    },
+    {
+        "Subject": "Mobile Applications Programming (3) - Practical M",
+        "Type": "V",
+        "Lecturer": "Saadi Dahesh Dalloul",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I407",
+        "assigned_time": 8
+    },
+    {
+        "Subject": "Mobile Applications Programming (3) - Practical F",
+        "Type": "V",
+        "Lecturer": "Qamar Al-Amsi",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I208",
+        "assigned_time": 25
+    },
+    {
+        "Subject": "Ubiquitous computing - Practical M",
+        "Type": "V",
+        "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I302",
+        "assigned_time": 4
+    },
+    {
+        "Subject": "Ubiquitous computing - Practical F",
+        "Type": "V",
+        "Lecturer": "Duha Ziyad Mahmoud Nassar",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I218",
+        "assigned_time": 12
+    },
+    {
+        "Subject": "Network applications for smart devices - practical- Practical M",
+        "Type": "V",
+        "Lecturer": "Uday Fayyad",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I318",
+        "assigned_time": 27
+    },
+    {
+        "Subject": "Network applications for smart devices - practical- Practical F",
+        "Type": "V",
+        "Lecturer": "Ghada Samir Mohamed Shehadeh",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I202",
+        "assigned_time": 19
+    },
+    {
+        "Subject": "Software Inspection for Smart Devices - Practical M",
+        "Type": "V",
+        "Lecturer": "Mahmoud Mohamed Badr Haboub",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I408",
+        "assigned_time": 38
+    },
+    {
+        "Subject": "Software Inspection for Smart Devices - Practical F",
+        "Type": "V",
+        "Lecturer": "Duha Ziyad Mahmoud Nassar",
+        "Group": [
+            "201"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I101",
+        "assigned_time": 38
+    },
+    {
+        "Subject": "Freelancing and online earning - Practical M",
+        "Type": "V",
+        "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+        "Group": [
+            "103",
+            "104",
+            "105"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I601",
+        "assigned_time": 25
+    },
+    {
+        "Subject": "Freelancing and online earning - Practical M",
+        "Type": "V",
+        "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+        "Group": [
+            "101",
+            "102"
+        ],
+        "Classroom": [
+            "I415",
+            "I116",
+            "I117",
+            "I601",
+            "I607",
+            "I603",
+            "I319",
+            "I318",
+            "I302",
+            "I408",
+            "I308",
+            "I301",
+            "I407",
+            "I603",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I116",
+        "assigned_time": 4
+    },
+    {
+        "Subject": "Freelancing and online earning - Practical F",
+        "Type": "V",
+        "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
+        "Group": [
+            "201",
+            "203",
+            "204"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I202",
+        "assigned_time": 17
+    },
+    {
+        "Subject": "Freelancing and online earning - Practical F",
+        "Type": "V",
+        "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
+        "Group": [
+            "202"
+        ],
+        "Classroom": [
+            "I101",
+            "I107",
+            "I102",
+            "I602",
+            "I607",
+            "I208",
+            "I202",
+            "I519",
+            "I207",
+            "I219",
+            "I201",
+            "I218",
+            "I219",
+            "I307"
+        ],
+        "Duration": "2",
+        "assigned_classroom": "I208",
+        "assigned_time": 14
+    }
+]
