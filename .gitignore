@@ -5,6 +5,7 @@ __pycache__/
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+.idea/other.xml
 classes/output5 old.json
 classes/output5.json
 classes/iug_input1 old.json
