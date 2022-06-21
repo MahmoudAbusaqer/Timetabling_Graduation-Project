@@ -1,5 +1,6 @@
 import json
 import random
+import cost_functions
 
 
 def load_data(path):
@@ -40,7 +41,7 @@ def generate_chromosome(data):
         classroom = random.choice(
             single_class['Classroom'])  # get a random classroom from the classrooms for this class
         day = random.randrange(0, 5)  # get a random day for this class
-        period = random.randrange(0, 9 - int(single_class['Duration']))  # get a random period (time) for this class
+        period = random.randrange(0, 17 - int(single_class['Duration']))  # get a random period (time) for this class
 
         # create a new variable called assigned_classroom (zadata_ucionica) to store the initial assigned classroom to the class
         new_single_class['assigned_classroom'] = classroom
@@ -164,4 +165,6 @@ if __name__ == "__main__":
     output_file = 'classes/iug_output.json'
     da = load_data(input_file)
     chromosome = generate_chromosome(da)
+    # cost = cost_functions.cost(chromosome)
+    # print("Cost = " + str(cost))
     write_data(chromosome[0], output_file)
