@@ -33,7 +33,17 @@
             "Level": "1",
             "for": ["G"],
             "Lecturer": "Ehab Mahmoud Mortaja",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Introduction to computing M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["G"],
+            "Lecturer": "Ehab Mahmoud Mortaja",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -54,7 +64,17 @@
             "Level": "1",
             "for": ["G"],
             "Lecturer": "Iyad Mohamed Agha",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Programming (1) M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["G"],
+            "Lecturer": "Iyad Mohamed Agha",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -64,7 +84,17 @@
             "Level": "1",
             "for": ["G"],
             "Lecturer": "Khaled Mohamed Ismail",
-            "Group": ["103", "104"],
+            "Group": ["103"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Programming (1) M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["G"],
+            "Lecturer": "Khaled Mohamed Ismail",
+            "Group": ["104"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -74,7 +104,17 @@
             "Level": "1",
             "for": ["G"],
             "Lecturer": "Iyad Hosni Shami",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Programming (1) F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["G"],
+            "Lecturer": "Iyad Hosni Shami",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -84,7 +124,17 @@
             "Level": "1",
             "for": ["G"],
             "Lecturer": "Ayman Saqqa",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Discrete Mathematics M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["G"],
+            "Lecturer": "Ayman Saqqa",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -94,7 +144,17 @@
             "Level": "1",
             "for": ["MO"],
             "Lecturer": "Ashraf Abu Mughaiseeb",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Discrete mathematics for mobile computing M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MO"],
+            "Lecturer": "Ashraf Abu Mughaiseeb",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -114,7 +174,17 @@
             "Level": "1",
             "for": ["G"],
             "Lecturer": "Faten Abu Shawqa",
-            "Group": ["201", "250"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Discrete mathematics F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["G"],
+            "Lecturer": "Faten Abu Shawqa",
+            "Group": ["250"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -124,7 +194,27 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],
             "Lecturer": "Basem Omar Al-Ejla",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Data structures and algorithms M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Basem Omar Al-Ejla",
+            "Group": ["102"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Data structures and algorithms M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Basem Omar Al-Ejla",
+            "Group": ["103"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -164,7 +254,17 @@
             "Level": "3",
             "for": ["CS", "SD", "IT"],
             "Lecturer": "Ehab Mahmoud Murtaja",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Operating Systems M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Ehab Mahmoud Murtaja",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -204,7 +304,27 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],
             "Lecturer": "Tawfiq Suleiman Barhoum",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Database (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Tawfiq Suleiman Barhoum",
+            "Group": ["102"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Database (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Tawfiq Suleiman Barhoum",
+            "Group": [ "103"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -224,7 +344,17 @@
             "Level": "3",
             "for": ["CS", "SD", "IT"],
             "Lecturer": "Basem Omar Al-Ejla",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Analysis and design of algorithms M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Basem Omar Al-Ejla",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -245,7 +375,27 @@
             "Level": "4",
             "for": ["CS", "SD", "IT", "MM", "MO"],
             "Lecturer": "Khaled Mohamed Ismail",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "1"
+		},
+        {
+            "Subject": "Graduation Research M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS", "SD", "IT", "MM", "MO"],
+            "Lecturer": "Khaled Mohamed Ismail",
+            "Group": ["102"],
+            "Classroom": "k",
+            "Duration": "1"
+		},
+        {
+            "Subject": "Graduation Research M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS", "SD", "IT", "MM", "MO"],
+            "Lecturer": "Khaled Mohamed Ismail",
+            "Group": ["103"],
             "Classroom": "k",
             "Duration": "1"
 		},
@@ -255,7 +405,17 @@
             "Level": "4",
             "for": ["CS", "SD", "IT", "MM", "MO"],
             "Lecturer": "Khaled Mohamed Ismail",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "1"
+		},
+        {
+            "Subject": "Graduation Research F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS", "SD", "IT", "MM", "MO"],
+            "Lecturer": "Khaled Mohamed Ismail",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "1"
 		},
@@ -285,7 +445,17 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],
             "Lecturer": "Omar Emad Al-Ejla",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Database management systems (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Omar Emad Al-Ejla",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "3"
 		},
@@ -305,7 +475,27 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],
             "Lecturer": "Thaer Al-Habbash",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Web Development and Programming (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Thaer Al-Habbash",
+            "Group": ["102"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Web Development and Programming (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Thaer Al-Habbash",
+            "Group": ["103"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -325,7 +515,17 @@
             "Level": "3",
             "for": ["CS", "SD", "IT"],
             "Lecturer": "Iyad Hosni Shami",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Database management systems (2) M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],
+            "Lecturer": "Iyad Hosni Shami",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -405,7 +605,17 @@
             "Level": "2",
             "for": ["SD", "IT"],            
             "Lecturer": "Khaled Mohamed Ismail",
-            "Group": ["101", "103"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Software engineering principles M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD", "IT"],            
+            "Lecturer": "Khaled Mohamed Ismail",
+            "Group": ["103"],
             "Classroom": "im",
             "Duration": "3"
 		},
@@ -415,7 +625,27 @@
             "Level": "2",
             "for": ["SD", "IT"],            
             "Lecturer": "Tamer Nazir Madi",
-            "Group": ["150", "201", "250"],
+            "Group": ["150"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Software engineering principles F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD", "IT"],            
+            "Lecturer": "Tamer Nazir Madi",
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Software engineering principles F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD", "IT"],            
+            "Lecturer": "Tamer Nazir Madi",
+            "Group": ["250"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -425,7 +655,27 @@
             "Level": "2",
             "for": ["SD"],            
             "Lecturer": "Alaa Mustafa Al Halees",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Requirment Engineering M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD"],            
+            "Lecturer": "Alaa Mustafa Al Halees",
+            "Group": ["102"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Requirment Engineering M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD"],            
+            "Lecturer": "Alaa Mustafa Al Halees",
+            "Group": ["103"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -545,7 +795,27 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Raed Saeed Rashid",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Introduction to computers and the Internet M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Raed Saeed Rashid",
+            "Group": ["102"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Introduction to computers and the Internet M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Raed Saeed Rashid",
+            "Group": ["103"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -555,7 +825,17 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Lamia Mohammed Al-Saeedi",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Introduction to computers and the Internet F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Lamia Mohammed Al-Saeedi",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -565,7 +845,17 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Tamer Nazir Madi",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Media programing (1) M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Tamer Nazir Madi",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -575,7 +865,17 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Rawya Fawzy Awad Allah",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Media programing (1) F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Rawya Fawzy Awad Allah",
+            "Group": [ "202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -585,7 +885,17 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Ramy Othman Skaik",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Multimedia technology and its composition M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Ramy Othman Skaik",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -595,7 +905,27 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Lamia Mohammed Al-Saeedi",
-            "Group": ["150", "201", "202"],
+            "Group": ["150"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Multimedia technology and its composition F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Lamia Mohammed Al-Saeedi",
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Multimedia technology and its composition F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Lamia Mohammed Al-Saeedi",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -605,7 +935,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Raed Saeed Rashid",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Data Visualization M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Raed Saeed Rashid",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -615,7 +955,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Raed Saeed Rashid",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Data Visualization F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Raed Saeed Rashid",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -625,7 +975,27 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Salem Jamil Yaziji",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Web Development (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Salem Jamil Yaziji",
+            "Group": ["102"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Web Development (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Salem Jamil Yaziji",
+            "Group": ["103"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -635,7 +1005,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Rawya Fawzy Awad Allah",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Web Development (1) F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Rawya Fawzy Awad Allah",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -645,7 +1025,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Raed Saeed Rashid",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Multimedia and web databases M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Raed Saeed Rashid",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -665,7 +1055,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "2"
 		},
@@ -675,7 +1075,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Lamia Mohammed Al-Saeedi",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Lamia Mohammed Al-Saeedi",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "2"
 		},
@@ -685,7 +1095,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ramy Othman Skaik",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Computer Animation M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ramy Othman Skaik",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -695,7 +1115,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ramy Othman Skaik",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Computer Animation F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ramy Othman Skaik",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -705,7 +1135,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ashraf Younes Mghari",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Multimedia project management M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ashraf Younes Mghari",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -715,7 +1155,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ashraf Younes Mghari",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Multimedia project management F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ashraf Younes Mghari",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -725,7 +1175,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "3D Modeling M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -735,7 +1195,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "3D Modeling F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Abdullah Ahmed Mohammed Al-Naqla",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -745,7 +1215,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Raed Mohammed Ibrahim Bulbul",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Web Security M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Raed Mohammed Ibrahim Bulbul",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -755,7 +1235,17 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Raed Mohammed Ibrahim Bulbul",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "l",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Web Security F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Raed Mohammed Ibrahim Bulbul",
+            "Group": ["202"],
             "Classroom": "l",
             "Duration": "3"
 		},
@@ -805,7 +1295,17 @@
             "Level": "2",
             "for": ["MO"],            
             "Lecturer": "Hazem Awni Shehadeh Rikhawi",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MO"],            
+            "Lecturer": "Hazem Awni Shehadeh Rikhawi",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "3"
 		},
@@ -905,7 +1405,17 @@
             "Level": "4",
             "for": ["MM"],            
             "Lecturer": "Moataz Khaled Saed",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "k",
+            "Duration": "3"
+		},
+        {
+            "Subject": "Freelancing and earning money online M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MM"],            
+            "Lecturer": "Moataz Khaled Saed",
+            "Group": ["102"],
             "Classroom": "k",
             "Duration": "3"
 		},
@@ -955,7 +1465,17 @@
             "Level": "1",
             "for": ["G"],            
             "Lecturer": "Izz El-Din Abu Jabal",
-            "Group": ["104", "105"],
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computing - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -975,7 +1495,17 @@
             "Level": "1",
             "for": ["G"],            
             "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
-            "Group": ["201", "203"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computing - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
+            "Group": ["203"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -995,17 +1525,7 @@
             "Level": "1",
             "for": ["G"],            
             "Lecturer": "Mahmoud Mohamed Badr Haboub",
-            "Group": ["101", "102", "103", "104", "105", "106"],
-            "Classroom": "im",
-            "Duration": "2"
-		},
-        {
-            "Subject": "Programming (1) - Practical M",
-            "Type": "V",
-            "Level": "1",
-            "for": ["G"],            
-            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
-            "Group": ["107", "108", "111"],
+            "Group": ["101"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1015,7 +1535,97 @@
             "Level": "1",
             "for": ["G"],            
             "Lecturer": "Mahmoud Mohamed Badr Haboub",
-            "Group": ["109", "110"],
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Mahmoud Mohamed Badr Haboub",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Mahmoud Mohamed Badr Haboub",
+            "Group": [ "104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Mahmoud Mohamed Badr Haboub",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Mahmoud Mohamed Badr Haboub",
+            "Group": ["106"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["107"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["108"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["111"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Mahmoud Mohamed Badr Haboub",
+            "Group": ["109"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Mahmoud Mohamed Badr Haboub",
+            "Group": ["110"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1025,7 +1635,47 @@
             "Level": "1",
             "for": ["G"],            
             "Lecturer": "Abdel Aziz Mohamed Souissi",
-            "Group": ["201", "202", "203", "204", "205"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Abdel Aziz Mohamed Souissi",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Abdel Aziz Mohamed Souissi",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Abdel Aziz Mohamed Souissi",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["G"],            
+            "Lecturer": "Abdel Aziz Mohamed Souissi",
+            "Group": ["205"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1035,7 +1685,27 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],            
             "Lecturer": "Al-Hassan Ahmad Hassan Al-Khatib",
-            "Group": ["101", "102", "104"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Al-Hassan Ahmad Hassan Al-Khatib",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Al-Hassan Ahmad Hassan Al-Khatib",
+            "Group": ["104"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1046,7 +1716,57 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],            
             "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
-            "Group": ["103", "105", "106", "107", "108", "109"],
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["106"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["107"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["108"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["109"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1066,7 +1786,87 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],            
             "Lecturer": "Tamer Mohamed Kamel Abu Ras",
-            "Group": ["101", "102", "103", "104", "105", "106", "107", "108", "109"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": ["106"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": [ "107"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": ["108"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Mohamed Kamel Abu Ras",
+            "Group": ["109"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1076,7 +1876,27 @@
             "Level": "2",
             "for": ["CS", "SD", "IT"],            
             "Lecturer": "Ghada Samir Mohamed Shehadeh",
-            "Group": ["201", "202", "203"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Ghada Samir Mohamed Shehadeh",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Databases (1) - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Ghada Samir Mohamed Shehadeh",
+            "Group": ["203"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1086,7 +1906,47 @@
             "Level": "3",
             "for": ["CS", "SD", "IT"],            
             "Lecturer": "Tamer Al Nuaizy",
-            "Group": ["101", "102", "103", "104", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Operating systems - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Al Nuaizy",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Operating systems - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Al Nuaizy",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Operating systems - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Al Nuaizy",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Operating systems - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Tamer Al Nuaizy",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1096,8 +1956,39 @@
             "Level": "3",
             "for": ["CS", "SD", "IT"],            
             "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
-            "Group": ["201", "202", "203"],
+            "Group": ["201"],
             "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Operating systems - practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Operating systems - practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS", "SD", "IT"],            
+            "Lecturer": "Reem Majed Mahmoud Al-Arouqi",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        
+        {
+            "Subject": "Database Systems 1 - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["101"],
+            "Classroom": "im",
             "Duration": "2"
 		},
         {
@@ -1106,7 +1997,37 @@
             "Level": "2",
             "for": ["MO", "MM"],            
             "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
-            "Group": ["101", "102", "103", "104", "105"],
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 1 - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 1 - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": [ "104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 1 - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Abdullah Ahmed Abdullah Abu Amra",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1116,7 +2037,17 @@
             "Level": "2",
             "for": ["MO", "MM"],            
             "Lecturer": "Ghada Samir Mohamed Shehadeh",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 1 - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Ghada Samir Mohamed Shehadeh",
+            "Group": ["201"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1126,7 +2057,87 @@
             "Level": "2",
             "for": ["SD", "CS", "IT"],            
             "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
-            "Group": ["101", "102", "103", "104", "105", "106", "107", "108", "109"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["106"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["107"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["108"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["109"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1136,7 +2147,27 @@
             "Level": "2",
             "for": ["SD", "CS", "IT"],            
             "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
-            "Group": ["201", "202", "203"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Programming (1) Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["SD", "CS", "IT"],            
+            "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
+            "Group": ["203"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1146,7 +2177,47 @@
             "Level": "3",
             "for": ["MO", "MM"],            
             "Lecturer": "Saad Tariq Saadi Daher",
-            "Group": ["101", "102", "103", "104", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 2 - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 2 - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 2 - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 2 - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1156,7 +2227,17 @@
             "Level": "3",
             "for": ["MO", "MM"],            
             "Lecturer": "Iman Nabil Ahmed Ghabayen",
-            "Group": ["202", "203"],
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Database Systems 2 - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO", "MM"],            
+            "Lecturer": "Iman Nabil Ahmed Ghabayen",
+            "Group": ["203"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1176,7 +2257,57 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Izz El-Din Abu Jabal",
-            "Group": ["101", "102", "103", "104", "105", "106"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["106"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1186,7 +2317,7 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Ola Hatem Kamal Al-Nimrah",
-            "Group": ["201", "202"],
+            "Group": ["201"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1196,7 +2327,47 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Ola Hatem Kamal Al-Nimrah",
-            "Group": ["203", "204", "205", "206"],
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+            "Group": [ "205"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+            "Group": ["206"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1206,7 +2377,57 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Malik Abdel Karim Mohamed Jouda",
-            "Group": ["101", "102", "103", "104", "105", "106"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": [ "104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["106"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1216,7 +2437,57 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Aya Al-Nabih",
-            "Group": ["201", "202", "203", "204", "205", "206"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Aya Al-Nabih",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Aya Al-Nabih",
+            "Group": [ "203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Aya Al-Nabih",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Aya Al-Nabih",
+            "Group": [ "205"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Aya Al-Nabih",
+            "Group": [ "206"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1246,7 +2517,27 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Izz El-Din Abu Jabal",
-            "Group": ["103", "104", "105"],
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Izz El-Din Abu Jabal",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1256,7 +2547,17 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Moaz Ziyad Mahmoud Nassar",
-            "Group": ["106", "108"],
+            "Group": ["108"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["106"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1266,7 +2567,27 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
-            "Group": ["107", "109", "110"],
+            "Group": ["107"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["109"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["110"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1296,7 +2617,57 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Fawzi Al-Masry",
-            "Group": ["201", "202", "203", "204", "205", "206"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Fawzi Al-Masry",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Fawzi Al-Masry",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Fawzi Al-Masry",
+            "Group": [ "204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Fawzi Al-Masry",
+            "Group": [ "205"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Fawzi Al-Masry",
+            "Group": [ "206"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1306,7 +2677,17 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Randa Magdy Mahmoud Shehadeh",
-            "Group": ["207", "208"],
+            "Group": ["207"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Randa Magdy Mahmoud Shehadeh",
+            "Group": ["208"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1316,7 +2697,47 @@
             "Level": "1",
             "for": ["MM"],            
             "Lecturer": "Amr Al-Halis",
-            "Group": ["101", "102", "103", "104", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Engineering drawing - practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Amr Al-Halis",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Engineering drawing - practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Amr Al-Halis",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Engineering drawing - practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Amr Al-Halis",
+            "Group": [ "104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Engineering drawing - practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM"],            
+            "Lecturer": "Amr Al-Halis",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1337,7 +2758,47 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Saad Tariq Saadi Daher",
-            "Group": ["101", "103", "104", "105", "106"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Saad Tariq Saadi Daher",
+            "Group": ["106"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1357,7 +2818,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Abdullah Shiblaq",
-            "Group": ["201", "202"],
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Abdullah Shiblaq",
+            "Group": ["201"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1367,7 +2838,37 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Randa Magdy Mahmoud Shehadeh",
-            "Group": ["203", "204", "205", "206"],
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Randa Magdy Mahmoud Shehadeh",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Randa Magdy Mahmoud Shehadeh",
+            "Group": ["205"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia and web databases - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Randa Magdy Mahmoud Shehadeh",
+            "Group": ["206"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1377,7 +2878,57 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Osama Abu Assi",
-            "Group": ["101", "102", "103", "104", "105", "106"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["106"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1387,7 +2938,57 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Narmin Azzam Hashem Sesalem",
-            "Group": ["201", "202", "203", "204", "205", "206"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": ["205"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": [ "206"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1397,7 +2998,37 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
-            "Group": ["101", "102", "104", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": [ "104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Omar Hafez Abdel Naim Abu Ras",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1407,7 +3038,7 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
-            "Group": ["106", "107", "108"],
+            "Group": ["106"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1417,7 +3048,37 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
-            "Group": ["103", "111"],
+            "Group": ["107"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+            "Group": ["108"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+            "Group": ["111"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1427,7 +3088,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Malik Abdel Karim Mohamed Jouda",
-            "Group": ["109", "110"],
+            "Group": ["109"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["110"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1447,7 +3118,17 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Ali Muhammad Othman Agha",
-            "Group": ["201", "203"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ali Muhammad Othman Agha",
+            "Group": ["203"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1457,7 +3138,7 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Jumana Sami Yusuf Nofal",
-            "Group": ["204", "207"],
+            "Group": ["204"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1467,7 +3148,37 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Jumana Sami Yusuf Nofal",
-            "Group": ["205", "206", "208"],
+            "Group": ["207"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Jumana Sami Yusuf Nofal",
+            "Group": ["205"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Jumana Sami Yusuf Nofal",
+            "Group": ["206"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Development (1) - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Jumana Sami Yusuf Nofal",
+            "Group": ["208"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1487,7 +3198,57 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Ahmed Abu Warda",
-            "Group": ["101", "102", "103", "104", "105", "106"],
+            "Group": [ "101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Abu Warda",
+            "Group": [ "102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Abu Warda",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Abu Warda",
+            "Group": [ "104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Abu Warda",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Abu Warda",
+            "Group": ["106"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1497,7 +3258,57 @@
             "Level": "2",
             "for": ["MM"],            
             "Lecturer": "Hossam Shallah",
-            "Group": ["201", "202", "203", "204", "205", "206"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Hossam Shallah",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Hossam Shallah",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Hossam Shallah",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Hossam Shallah",
+            "Group": [ "205"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Data visualization - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM"],            
+            "Lecturer": "Hossam Shallah",
+            "Group": ["206"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1507,7 +3318,47 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Osama Abu Assi",
-            "Group": ["101", "102", "103", "104", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Computer Animation - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Computer Animation - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Computer Animation - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Computer Animation - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Osama Abu Assi",
+            "Group": [ "105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1527,7 +3378,37 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Narmin Azzam Hashem Sesalem",
-            "Group": ["202", "203", "204", "205"],
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Computer Animation - practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": [ "203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Computer Animation - practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Computer Animation - practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Narmin Azzam Hashem Sesalem",
+            "Group": ["205"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1537,7 +3418,37 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ahmed Raed Siam",
-            "Group": ["101", "102", "103", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Raed Siam",
+            "Group": [ "102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Raed Siam",
+            "Group": [ "103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Raed Siam",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1567,7 +3478,37 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Khetam Ziad Abd Moqat",
-            "Group": ["202", "203", "204", "205"],
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Khetam Ziad Abd Moqat",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Khetam Ziad Abd Moqat",
+            "Group": [ "204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Khetam Ziad Abd Moqat",
+            "Group": ["205"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1577,7 +3518,47 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Amir al-Tilbani",
-            "Group": ["101", "102", "103", "104", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "3D Modeling - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Amir al-Tilbani",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "3D Modeling - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Amir al-Tilbani",
+            "Group": [ "103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "3D Modeling - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Amir al-Tilbani",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "3D Modeling - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Amir al-Tilbani",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1597,7 +3578,37 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ola Hatem Kamal Al-Nimrah",
-            "Group": ["202", "203", "204", "205"],
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "3D Modeling - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+            "Group": ["204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "3D Modeling - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "3D Modeling - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ola Hatem Kamal Al-Nimrah",
+            "Group": ["205"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1607,7 +3618,7 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
-            "Group": ["101", "102", "103"],
+            "Group": ["101"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1617,7 +3628,37 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
-            "Group": ["104", "105"],
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Security - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Security - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Security - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Ahmed Ali Zayed Al-Shurafa",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1637,7 +3678,37 @@
             "Level": "3",
             "for": ["MM"],            
             "Lecturer": "Nada Hassan Mohammed Shamaa",
-            "Group": ["201", "202", "204", "205"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Security - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Nada Hassan Mohammed Shamaa",
+            "Group": [ "204"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Security - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Nada Hassan Mohammed Shamaa",
+            "Group": ["202"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Web Security - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM"],            
+            "Lecturer": "Nada Hassan Mohammed Shamaa",
+            "Group": [ "205"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1647,7 +3718,17 @@
             "Level": "4",
             "for": ["MO"],            
             "Lecturer": "Mahmoud Maher Ibrahim Hamid",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MO"],            
+            "Lecturer": "Mahmoud Maher Ibrahim Hamid",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1657,7 +3738,17 @@
             "Level": "4",
             "for": ["MO"],            
             "Lecturer": "Alaa Al-Shurafa",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications - Practical F",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MO"],            
+            "Lecturer": "Alaa Al-Shurafa",
+            "Group": [ "202"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1667,7 +3758,47 @@
             "Level": "2",
             "for": ["MO"],            
             "Lecturer": "Moaz Ziyad Mahmoud Nassar",
-            "Group": ["101", "102", "103", "104", "105"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["102"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["103"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": [ "104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["105"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1677,7 +3808,17 @@
             "Level": "2",
             "for": ["MO"],            
             "Lecturer": "Duha Ziyad Mahmoud Nassar",
-            "Group": ["201", "202"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO"],            
+            "Lecturer": "Duha Ziyad Mahmoud Nassar",
+            "Group": ["202"],
             "Classroom": "if",
             "Duration": "2"
 		},
@@ -1687,7 +3828,17 @@
             "Level": "3",
             "for": ["MO"],            
             "Lecturer": "Saadi Dahesh Dalloul",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Mobile Applications Programming (3) - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO"],            
+            "Lecturer": "Saadi Dahesh Dalloul",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1707,7 +3858,17 @@
             "Level": "3",
             "for": ["MO"],            
             "Lecturer": "Moaz Ziyad Mahmoud Nassar",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Ubiquitous computing - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO"],            
+            "Lecturer": "Moaz Ziyad Mahmoud Nassar",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1727,7 +3888,17 @@
             "Level": "3",
             "for": ["MO"],            
             "Lecturer": "Uday Fayyad",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Network applications for smart devices - practical- Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO"],            
+            "Lecturer": "Uday Fayyad",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1747,7 +3918,17 @@
             "Level": "4",
             "for": ["MO"],            
             "Lecturer": "Mahmoud Mohamed Badr Haboub",
-            "Group": ["101", "102"],
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Software Inspection for Smart Devices - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MO"],            
+            "Lecturer": "Mahmoud Mohamed Badr Haboub",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1767,7 +3948,7 @@
             "Level": "4",
             "for": ["MM"],            
             "Lecturer": "Malik Abdel Karim Mohamed Jouda",
-            "Group": ["103", "104", "105"],
+            "Group": ["103"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1777,7 +3958,37 @@
             "Level": "4",
             "for": ["MM"],            
             "Lecturer": "Malik Abdel Karim Mohamed Jouda",
-            "Group": ["101", "102"],
+            "Group": ["104"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Freelancing and online earning - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["105"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Freelancing and online earning - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["101"],
+            "Classroom": "im",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Freelancing and online earning - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MM"],            
+            "Lecturer": "Malik Abdel Karim Mohamed Jouda",
+            "Group": ["102"],
             "Classroom": "im",
             "Duration": "2"
 		},
@@ -1787,7 +3998,27 @@
             "Level": "4",
             "for": ["MM"],            
             "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
-            "Group": ["201", "203", "204"],
+            "Group": ["201"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Freelancing and online earning - Practical F",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MM"],            
+            "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
+            "Group": ["203"],
+            "Classroom": "if",
+            "Duration": "2"
+		},
+        {
+            "Subject": "Freelancing and online earning - Practical F",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MM"],            
+            "Lecturer": "Heba Amer Saeed Musa Al-Sawafiri",
+            "Group": ["204"],
             "Classroom": "if",
             "Duration": "2"
 		},
