@@ -6,26 +6,26 @@ def cost(chromosome):
     """
     prof_cost = 0
     classrooms_cost = 0
-    groups_cost = 0
+    # groups_cost = 0
     subjects_cost = 0
 
     # Traverse all classes for hard constraints
     for single_class in chromosome[0]:
-        time = single_class['Zadato_vreme']  # the initial assigned time to the class
-        class_len = single_class['Trajanje']
+        time = single_class['assigned_time']  # the initial assigned time to the class
+        class_length = single_class['Duration']
 
         # Check hard constraint violation in classes time frame
-        for i in range(time, time + int(class_len)):
+        for i in range(time, time + int(class_length)):
             # check if in the current class time have more than 1 professor
-            if chromosome[1][single_class['Nastavnik']][i] > 1:
+            if chromosome[1][single_class['Lecturer']][i] > 1:
                 prof_cost += 1
             # check if in the current class time have more than 1 classroom
-            if chromosome[2][single_class['Zadata_ucionica']][i] > 1:
+            if chromosome[2][single_class['assigned_classroom']][i] > 1:
                 classrooms_cost += 1
             # check if in the current class time have more than 1 group
-            for group in single_class['Grupe']:
-                if chromosome[3][group][i] > 1:
-                    groups_cost += 1
+            # for group in single_class['Group']:
+            #     if chromosome[3][group][i] > 1:
+            #         groups_cost += 1
 
     """
         Soft constraint not important yet
@@ -47,7 +47,8 @@ def cost(chromosome):
     #                 if grupa in lecture[1] and practice[0] < lecture[0]: # If practical is before lecture
     #                     subjects_cost += 0.0025
 
-    return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
+    return prof_cost + classrooms_cost + round(subjects_cost, 4)
+    # return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
 
     """
         Soft constraint not important yet
