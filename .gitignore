@@ -6,10 +6,5 @@ __pycache__/
 .idea/modules.xml
 .idea/vcs.xml
 .idea/other.xml
-classes/iug_input1 old v1.json
-classes/iug_input1 old v2.json
-classes/iug_output old v1.json
-classes/iug_output old v2.json
-input1 v2.json
 README.md
-test2.py
+/see_data.py
