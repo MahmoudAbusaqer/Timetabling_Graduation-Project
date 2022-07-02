@@ -1,0 +1,1601 @@
+{
+    "departments": {
+        "Gm": 120,
+        "MM_1m": 80,
+        "MO_1m": 90,
+        "CS_2m": 40,
+        "SD_2m": 70,
+        "IT_2m": 20,
+        "MM_2m": 70,
+        "MO_2m": 80,
+        "CS_3m": 35,
+        "SD_3m": 60,
+        "IT_3m": 15,
+        "MM_3m": 60,
+        "MO_3m": 70,
+        "CS_4m": 25,
+        "SD_4m": 55,
+        "IT_4m": 10,
+        "MM_4m": 60,
+        "MO_4m": 65,
+        "Gf": 120,
+        "MM_1f": 80,
+        "MO_1f": 90,
+        "CS_2f": 40,
+        "SD_2f": 70,
+        "IT_2f": 20,
+        "MM_2f": 70,
+        "MO_2f": 80,
+        "CS_3f": 35,
+        "SD_3f": 60,
+        "IT_3f": 15,
+        "MM_3f": 60,
+        "MO_3f": 70,
+        "CS_4f": 25,
+        "SD_4f": 55,
+        "IT_4f": 10,
+        "MM_4f": 60,
+        "MO_4f": 65
+    },
+    "Classrooms": {
+        "l": ["L203", "L204", "L217", "L216", "L303", "L304"],
+        "k": ["K203", "K204", "K216", "K403", "K316", "K217", "K303", "K304", "K317", "K404"],
+        "iml": ["I116", "I117", "I414", "I415", "I416", "I601", "I607", "I603"],
+        "imp": ["I128", "I219", "I301", "I302", "I307", "I308", "I319", "I318", "I407", "I408"],
+        "ifl": ["I101", "I107", "I102", "I602", "I607", "I208", "I202", "I207", "I201"],
+        "ifp": ["I519", "I218", "I301", "I302", "I307", "I308", "I319", "I318", "I407", "I408"],
+        "n": ["N1", "N2"]
+    },
+    "Classes": [
+        {
+            "Subject": "Introduction to computer science M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gm"],
+            "Lecturer": ["salim jamil alyazji"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+		},
+        {
+            "Subject": "Introduction to computer science F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gf"],
+            "Lecturer": ["salim jamil alyazji"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Introduction to computing M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gm"],
+            "Lecturer": ["Ehab Mahmoud Mortaja"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Introduction to computing F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gf"],
+            "Lecturer": ["Ehab Mahmoud Mortaja"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+
+        {
+            "Subject": "Programming (1) M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gm"],
+            "Lecturer": ["Iyad Mohamed Agha", "Khaled Mohamed Ismail"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Programming (1) F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gf"],
+            "Lecturer": ["Iyad Hosni Shami"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Discrete Mathematics M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gm"],
+            "Lecturer": ["Ayman Saqqa","Ashraf Abu Mughaiseeb"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Discrete mathematics for mobile computing M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MO_1m"],
+            "Lecturer": ["Ashraf Abu Mughaiseeb"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Discrete mathematics for mobile computing F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MO_1f"],
+            "Lecturer": ["Ashraf Abu Mughaiseeb"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Discrete mathematics F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["Gf"],
+            "Lecturer": ["Faten Abu Shawqa"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Data structures and algorithms M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Basem Omar Al-Ejla"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Data structures and algorithms F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Basem Omar Al-Ejla"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Programming language principles M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3m", "SD_3m", "IT_3m"],
+            "Lecturer": ["Salem Jamil Yaziji"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Programming language principles F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3f", "SD_3f", "IT_3f"],
+            "Lecturer": ["Salem Jamil Yaziji"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Operating Systems M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3m", "SD_3m", "IT_3m"],
+            "Lecturer": ["Ehab Mahmoud Murtaja"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Operating Systems F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3f", "SD_3f", "IT_3f"],
+            "Lecturer": ["Ehab Mahmoud Murtaja"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Engineering M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Abdul Karim Mahmoud Al-Ashqar"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Engineering F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Abdul Karim Mahmoud Al-Ashqar"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Database (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Tawfiq Suleiman Barhoum"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Database (1) F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Tawfiq Suleiman Barhoum"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Analysis and design of algorithms M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3m", "SD_3m", "IT_3m"],
+            "Lecturer": ["Basem Omar Al-Ejla"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+
+        {
+            "Subject": "Analysis and design of algorithms F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3f", "SD_3f", "IT_3f"],
+            "Lecturer": ["Basem Omar Al-Ejla"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Graduation Research M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4m", "SD_4m", "IT_4m", "MM_4m", "MO_4m"],
+            "Lecturer": ["Khaled Mohamed Ismail"],
+            "Classroom": "k",
+            "Duration": "1",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Graduation Research F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4f", "SD_4f", "IT_4f", "MM_4f", "MO_4f"],
+            "Lecturer": ["Khaled Mohamed Ismail"],
+            "Classroom": "l",
+            "Duration": "1",
+            "Capacity": 80
+
+		},
+
+        {
+            "Subject": "Computer Graphics M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4m"],
+            "Lecturer": ["Ehab Mahmoud Mortaja"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Computer Graphics F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4f"],
+            "Lecturer": ["Ehab Mahmoud Mortaja"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Database management systems (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Omar Emad Al-Ejla"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Database management systems (1) F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Omar Emad Al-Ejla"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Web Development and Programming (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Thaer Al-Habbash"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+
+        {
+            "Subject": "Web Development and Programming  (1) F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Thaer Al-Habbash"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Database management systems (2) M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3m", "SD_3m", "IT_3m"],
+            "Lecturer": ["Iyad Hosni Shami"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Database management systems (2) F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["CS_3f", "SD_3f", "IT_3f"],
+            "Lecturer": ["Iyad Hosni Shami"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Computer Security M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4m", "SD_4m"],
+            "Lecturer": ["Tawfiq Suleiman Barhoum"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Computer Security F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4f", "SD_4f"],
+            "Lecturer": ["Tawfiq Suleiman Barhoum"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Computing M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MO_4m"],
+            "Lecturer": ["Iyad Mohamed Agha"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Computing F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MO_4f"],
+            "Lecturer": ["Iyad Mohamed Agha"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Cloud and distributed systems M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4m", "IT_4m"],
+            "Lecturer": ["Rebhi Suleiman Baraka"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Cloud and distributed systems F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["CS_4f", "IT_4f"],
+            "Lecturer": ["Rebhi Suleiman Baraka"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software engineering principles M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD_2m", "IT_2m"],
+            "Lecturer": ["Khaled Mohamed Ismail"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software engineering principles F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD_2f", "IT_2f"],
+            "Lecturer": ["Tamer Nazir Madi"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Requirment Engineering M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD_2m"],
+            "Lecturer": ["Alaa Mustafa Al Halees"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Requirment Engineering F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["SD_2f"],
+            "Lecturer": ["Alaa Mustafa Al Halees"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Engineering (2) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2m"],
+            "Lecturer": ["Abdul Karim Mahmoud Al-Ashqar"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Engineering (2) F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["CS_2f"],
+            "Lecturer": ["Abdul Karim Mahmoud Al-Ashqar"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Projects Management M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["SD_3m", "IT_3m"],
+            "Lecturer": ["Rebhi Suleiman Baraka"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Projects Management F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["SD_3f", "IT_3f"],
+            "Lecturer": ["Rebhi Suleiman Baraka"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Quality Assurance M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["SD_3m"],
+            "Lecturer": ["Ahmed Adnan Al-Qazzaz"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Quality Assurance F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["SD_3f"],
+            "Lecturer": ["Ahmed Adnan Al-Qazzaz"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Security M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["SD_4m", "IT_4m"],
+            "Lecturer": ["Raed Mohammed Ibrahim Bulbul"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software Security F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["SD_4f", "IT_4f"],
+            "Lecturer": ["Raed Mohammed Ibrahim Bulbul"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software engineering for web service M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["SD_4m"],
+            "Lecturer": ["Rebhi Suleiman Baraka"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software engineering for web service F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["SD_4f"],
+            "Lecturer": ["Rebhi Suleiman Baraka"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Introduction to computers and the Internet M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM_1m"],
+            "Lecturer": ["Raed Saeed Rashid"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Introduction to computers and the Internet F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM_1f"],
+            "Lecturer": ["Lamia Mohammed Al-Saeedi"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Media programing (1) M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM_1m"],
+            "Lecturer": ["Tamer Nazir Madi"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Media programing (1) F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM_1f"],
+            "Lecturer": ["Rawya Fawzy Awad Allah"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Multimedia technology and its composition M",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM_1m"],
+            "Lecturer": ["Ramy Othman Skaik"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Multimedia technology and its composition F",
+            "Type": "P",
+            "Level": "1",
+            "for": ["MM_1f"],
+            "Lecturer": ["Lamia Mohammed Al-Saeedi"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Data Visualization M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2m"],
+            "Lecturer": ["Raed Saeed Rashid"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Data Visualization F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Raed Saeed Rashid"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Web Development (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2m"],
+            "Lecturer": ["Salem Jamil Yaziji"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Web Development (1) F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Rawya Fawzy Awad Allah"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Multimedia and web databases M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2m"],
+            "Lecturer": ["Raed Saeed Rashid"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Multimedia and web databases F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Lamia Mohammed Al-Saeedi"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Digital photo and sound editing M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2m"],
+            "Lecturer": ["Abdullah Ahmed Mohammed Al-Naqla"],
+            "Classroom": "k",
+            "Duration": "2",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Digital photo and sound editing F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Lamia Mohammed Al-Saeedi"],
+            "Classroom": "l",
+            "Duration": "2",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Computer Animation M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Ramy Othman Skaik"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Computer Animation F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Ramy Othman Skaik"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Multimedia project management M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Ashraf Younes Mghari"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Multimedia project management F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Ashraf Younes Mghari"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "3D Modeling M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Abdullah Ahmed Mohammed Al-Naqla"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "3D Modeling F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Abdullah Ahmed Mohammed Al-Naqla"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Web Security M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Raed Mohammed Ibrahim Bulbul"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Web Security F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Raed Mohammed Ibrahim Bulbul"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Applications M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MM_4m"],
+            "Lecturer": ["Abdullah Ahmed Mohammed Al-Naqla"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Applications F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MM_4f"],
+            "Lecturer": ["Fayez Bdir"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Web topics M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MM_4m"],
+            "Lecturer": ["Mohamed Ahmed Mustafa Al-Agha"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Web topics F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MM_4f"],
+            "Lecturer": ["Mohamed Ahmed Mustafa Al-Agha"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) M",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MO_2m"],
+            "Lecturer": ["Hazem Awni Shehadeh Rikhawi"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) F",
+            "Type": "P",
+            "Level": "2",
+            "for": ["MO_2f"],
+            "Lecturer": ["Hazem Awni Shehadeh Rikhawi"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Applications Programming (3) M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MO_3m"],
+            "Lecturer": ["Ahmed Adnan Al-Qazzaz"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Mobile Applications Programming (3) F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MO_3f"],
+            "Lecturer": ["Ahmed Adnan Al-Qazzaz"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Ubiquitous computing M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MO_3m"],
+            "Lecturer": ["Mohamed Ahmed Mustafa Al-Agha"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Ubiquitous computing F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MO_3f"],
+            "Lecturer": ["Mohamed Ahmed Mustafa Al-Agha"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Network applications for smart devices M",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MO_3m"],
+            "Lecturer": ["Omar Emad Al-Ejla"],
+            "Classroom": "iml",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Network applications for smart devices F",
+            "Type": "P",
+            "Level": "3",
+            "for": ["MO_3f"],
+            "Lecturer": ["Omar Emad Al-Ejla"],
+            "Classroom": "ifl",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software check for smart devices M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MO_3m"],
+            "Lecturer": ["Ahmed Adnan Al-Qazzaz"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Software check for smart devices F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MO_4f"],
+            "Lecturer": ["Ahmed Adnan Al-Qazzaz"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Freelancing and earning money online M",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MM_4m"],
+            "Lecturer": ["Moataz Khaled Saed"],
+            "Classroom": "k",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Freelancing and earning money online F",
+            "Type": "P",
+            "Level": "4",
+            "for": ["MM_4f"],
+            "Lecturer": ["Moataz Khaled Saed"],
+            "Classroom": "l",
+            "Duration": "3",
+            "Capacity": 80
+
+		},
+        {
+            "Subject": "Introduction to Computing - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["Gm"],
+            "Lecturer": ["Ahmed Ali Zayed Al-Shurafa","Moaz Ziyad Mahmoud Nassar", "Abdullah Ahmed Abdullah Abu Amra", "Izz El-Din Abu Jabal", "Tamer Al Nuaizy"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Introduction to Computing - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["Gf"],
+            "Lecturer": ["Reem Majed Mahmoud Al-Arouqi", "Duha Ziyad Mahmoud Nassar"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+
+        {
+            "Subject": "Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["Gm"],
+            "Lecturer": ["Mahmoud Mohamed Badr Haboub", "Moaz Ziyad Mahmoud Nassar"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["Gf"],
+            "Lecturer": ["Abdel Aziz Mohamed Souissi"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Al-Hassan Ahmad Hassan Al-Khatib", "Abdullah Ahmed Abdullah Abu Amra"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Data Structures and Algorithms - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Reem Majed Mahmoud Al-Arouqi"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Databases (1) - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Tamer Mohamed Kamel Abu Ras"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Databases (1) - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Ghada Samir Mohamed Shehadeh"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Operating systems - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS_3m", "SD_3m", "IT_3m"],
+            "Lecturer": ["Tamer Al Nuaizy"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+
+        {
+            "Subject": "Operating systems - practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["CS_3f", "SD_3f", "IT_3f"],
+            "Lecturer": ["Reem Majed Mahmoud Al-Arouqi"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Database Systems 1 - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO_2m", "MM_2m"],
+            "Lecturer": ["Abdullah Ahmed Abdullah Abu Amra"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+
+        {
+            "Subject": "Database Systems 1 - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO_2f", "MM_2f"],
+            "Lecturer": ["Ghada Samir Mohamed Shehadeh"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Web Programming (1) Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS_2m", "SD_2m", "IT_2m"],
+            "Lecturer": ["Omar Hafez Abdel Naim Abu Ras"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Web Programming (1) Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["CS_2f", "SD_2f", "IT_2f"],
+            "Lecturer": ["Heba Amer Saeed Musa Al-Sawafiri"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Database Systems 2 - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO_3m", "MM_3m"],
+            "Lecturer": ["Saad Tariq Saadi Daher"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+
+        {
+            "Subject": "Database Systems 2 - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO_3f", "MM_3f"],
+            "Lecturer": ["Iman Nabil Ahmed Ghabayen"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM_1m"],
+            "Lecturer": ["Izz El-Din Abu Jabal"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Multimedia Technology and Its Composition - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM_1f"],
+            "Lecturer": ["Ola Hatem Kamal Al-Nimrah"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM_1m"],
+            "Lecturer": ["Malik Abdel Karim Mohamed Jouda"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Multimedia Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM_1f"],
+            "Lecturer": ["Aya Al-Nabih"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM_1m"],
+            "Lecturer": ["Abdullah Ahmed Abdullah Abu Amra", "Ahmed Ali Zayed Al-Shurafa", "Izz El-Din Abu Jabal",
+                "Moaz Ziyad Mahmoud Nassar", "Omar Hafez Abdel Naim Abu Ras", "Tamer Al Nuaizy","Fawzi Al-Masry"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Introduction to Computer and the Internet - Practical F",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM_1f"],
+            "Lecturer": ["Fawzi Al-Masry", "Randa Magdy Mahmoud Shehadeh"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Engineering drawing - practical M",
+            "Type": "V",
+            "Level": "1",
+            "for": ["MM_1m"],
+            "Lecturer": ["Amr Al-Halis", "Ahmed Helles", "Saad Tariq Saadi Daher"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Multimedia and web databases - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Abdullah Shiblaq", "Randa Magdy Mahmoud Shehadeh"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM_2m"],
+            "Lecturer": ["Osama Abu Assi"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Digital photo and sound editing - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Narmin Azzam Hashem Sesalem"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Web Development (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM_2m"],
+            "Lecturer": ["Omar Hafez Abdel Naim Abu Ras", "Ahmed Ali Zayed Al-Shurafa", "Malik Abdel Karim Mohamed Jouda"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Web Development (1) - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Ali Muhammad Othman Agha", "Jumana Sami Yusuf Nofal", "Ayman Abu Nqira"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Data visualization - practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM_2m"],
+            "Lecturer": ["Ahmed Abu Warda"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Data visualization - practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MM_2f"],
+            "Lecturer": ["Hossam Shallah"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Computer Animation - practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Osama Abu Assi"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Computer Animation - practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Amir al-Tilbani", "Narmin Azzam Hashem Sesalem"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Ahmed Raed Siam"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Multimedia Project Management - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Hossam Shallah", "Khetam Ziad Abd Moqat"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "3D Modeling - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Amir al-Tilbani"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "3D Modeling - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Ola Hatem Kamal Al-Nimrah"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Web Security - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3m"],
+            "Lecturer": ["Ahmed Ali Zayed Al-Shurafa"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Web Security - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MM_3f"],
+            "Lecturer": ["Nada Hassan Mohammed Shamaa"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Mobile Applications - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MO_4m"],
+            "Lecturer": ["Mahmoud Maher Ibrahim Hamid"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Mobile Applications - Practical F",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MO_4m"],
+            "Lecturer": ["Alaa Al-Shurafa"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) - Practical M",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO_2m"],
+            "Lecturer": ["Moaz Ziyad Mahmoud Nassar"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Mobile Applications Programming (1) - Practical F",
+            "Type": "V",
+            "Level": "2",
+            "for": ["MO_2f"],
+            "Lecturer": ["Duha Ziyad Mahmoud Nassar", "Qamar Al-Amsi"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Ubiquitous computing - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO_3m"],
+            "Lecturer": ["Moaz Ziyad Mahmoud Nassar"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Ubiquitous computing - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO_3f"],
+            "Lecturer": ["Duha Ziyad Mahmoud Nassar"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Network applications for smart devices - Practical M",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO_3m"],
+            "Lecturer": ["Uday Fayyad"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Network applications for smart devices - Practical F",
+            "Type": "V",
+            "Level": "3",
+            "for": ["MO_3f"],
+            "Lecturer": ["Ghada Samir Mohamed Shehadeh"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Software Inspection for Smart Devices - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MO_4m"],
+            "Lecturer": ["Mahmoud Mohamed Badr Haboub"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Software Inspection for Smart Devices - Practical F",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MO_4f"],
+            "Lecturer": ["Duha Ziyad Mahmoud Nassar"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		},
+        {
+            "Subject": "Freelancing and online earning - Practical M",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MM_4m"],
+            "Lecturer": ["Malik Abdel Karim Mohamed Jouda"],
+            "Classroom": "imp",
+            "Duration": "2",
+            "Capacity": 20
+
+
+		},
+        {
+            "Subject": "Freelancing and online earning - Practical F",
+            "Type": "V",
+            "Level": "4",
+            "for": ["MM_4f"],
+            "Lecturer": ["Heba Amer Saeed Musa Al-Sawafiri"],
+            "Classroom": "ifp",
+            "Duration": "2",
+            "Capacity": 20
+
+		}
+
+	]
+}
