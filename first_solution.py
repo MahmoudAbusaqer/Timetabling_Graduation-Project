@@ -1,6 +1,6 @@
 import json
 import random
-
+import cost_functionsNEW
 
 def load_data(path):
     with open(path, 'r') as read_file:
@@ -8,14 +8,16 @@ def load_data(path):
 
     classes = data['Classes']
     departments = data['departments']
+    depart_groups = data['department_groups']
 
-    return classes, departments
+    return classes, departments, depart_groups
 
 
-def generate_chromosome(data, departments):
+def generate_chromosome(data, departments, depart_groups):
     professors = {}
     classrooms = {}
     groups = {}
+    department_groups = {}
     subjects = {}
     new_data = []
 
@@ -31,6 +33,8 @@ def generate_chromosome(data, departments):
         subjects[single_class['Subject']] = {'P': [], 'V': []}
     for single_group in departments:
         groups[single_group] = [0] * 80
+    for single_depart_groups in depart_groups:
+        department_groups[single_depart_groups] = [0] * 80
 
     for single_class in data:
         new_single_class = single_class.copy()
@@ -41,47 +45,53 @@ def generate_chromosome(data, departments):
         day = random.randrange(0, 5)  # get a random day for this class
         period = choose_period(day, class_type, class_length)  # get a random period (time) for a class
         lecturer = new_single_class['Lecturer']
+        reserve_group = []
+        reserve_department_groups = []
         for single_lecture in lecturer:
             reserve_professor = professors[single_lecture]
         reserve_classroom = classrooms[classroom]
-        for single_dep in new_single_class["for"]:
-            reserve_group = groups[single_dep]
+        for single_for in new_single_class['for']:
+            reserve_group.append(groups[single_for])
+        # print("reserve_group: " + str(reserve_group))
+        if new_single_class['Type'] == "V":
+            for single_dep in new_single_class["for"]:
+                reserve_department_groups.append(department_groups[f"{single_dep} {new_single_class['Group']}"])
+        elif new_single_class['Type'] == "P":
+            for single_dep in new_single_class["For_Group"]:
+                reserve_department_groups.append(department_groups[single_dep])
+            # print("reserve_department_groups: " + str(reserve_department_groups))
         assign_time(day, period, class_length, class_type, new_single_class, reserve_professor,
-                    reserve_classroom, reserve_group, subjects)
+                    reserve_classroom, reserve_group, reserve_department_groups, subjects)
         new_data.append(new_single_class)
         # For testing output only need to be removed later
         # print(new_single_class)
         # number_of_runs += 1
         # print(str(number_of_runs))
 
-    return new_data, professors, classrooms, groups, subjects
+    return new_data, professors, classrooms, groups, department_groups, subjects
 
 
 def choose_period(day, class_type, class_length):
     class_length = int(class_length)
+    lap_periods = [0, 2, 4, 6, 8, 10, 12]
+    sat_mon_wed = [0, 2, 4, 6, 8, 10, 12, 14]
+    sun_tue = [0, 3, 9, 12]
     new_period = None
-    if day in (0, 2, 4) and class_type == "V":  # lap class
-        new_period = random.randrange(0, 15 - class_length)
+    if class_type == "V":  # lap class
+        new_period = random.choice(lap_periods)
     elif day in (0, 2, 4) and class_type == "P":  # lecture class
-        if class_length == 1:
-            new_period = random.randrange(0, 16 - class_length)
-        elif class_length == 2:
-            new_period = random.randrange(0, 17 - class_length)
-        elif class_length == 3:
-            new_period = random.randrange(0, 18 - class_length)
-    elif day in (1, 3) and class_type == "V":  # lap class
-        new_period = random.randrange(0, 15 - class_length)
+        new_period = random.choice(sat_mon_wed)
     elif day in (1, 3) and class_type == "P":  # lecture class
-        if class_length == 1:
-            new_period = random.randrange(0, 16 - class_length)
-        elif class_length == 2 or class_length == 3:
-            new_period = random.randrange(0, 17 - class_length)
+        if class_length == 1 or class_length == 2:
+            new_period = random.choice(sat_mon_wed)
+        elif class_length == 3:
+            new_period = random.choice(sun_tue)
 
     return new_period
 
 
 def assign_time(day, period, class_length, class_type, new_single_class, reserve_professor, reserve_classroom,
-                reserve_group, subjects):
+                reserve_group, reserve_department_groups, subjects):
     group = new_single_class['Group']
     # Saturday, Monday and Wednesday classes
     if day == 0 or day == 2 or day == 4:
@@ -91,7 +101,7 @@ def assign_time(day, period, class_length, class_type, new_single_class, reserve
             time = 16 * day + period
             new_single_class['assigned_time'] = [time]
             reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 1,
-                         group)
+                         group, reserve_department_groups)
         # reserve 3 times for the lecture classes with a Length of 3 hours
         elif class_length == "3" and class_type == 'P':
             print("***state 2***")
@@ -100,11 +110,11 @@ def assign_time(day, period, class_length, class_type, new_single_class, reserve
             time3 = (16 * 4) + period
             new_single_class['assigned_time'] = time, time2, time3
             reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 2,
-                         group)
+                         group, reserve_department_groups)
             reserve_time(time2, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 2,
-                         group)
+                         group, reserve_department_groups)
             reserve_time(time3, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 2,
-                         group)
+                         group, reserve_department_groups)
         # reserve 2 times for the lecture classes with a Length of 2 hours
         elif class_length == "2" and class_type == 'P':
             print("***state 3***")
@@ -112,16 +122,16 @@ def assign_time(day, period, class_length, class_type, new_single_class, reserve
             time2 = 16 * 4 + period
             new_single_class['assigned_time'] = time, time2
             reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 3,
-                         group)
+                         group, reserve_department_groups)
             reserve_time(time2, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 3,
-                         group)
+                         group, reserve_department_groups)
         # reserve 1 time for a lecture class that is one hour only
         elif class_length == "1" and class_type == 'P':
             print("***state 6***")
             time = 16 * day + period
             new_single_class['assigned_time'] = [time]
             reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 6,
-                         group)
+                         group, reserve_department_groups)
 
     # Sunday and Thursday classes
     elif day == 1 or day == 3:
@@ -131,7 +141,7 @@ def assign_time(day, period, class_length, class_type, new_single_class, reserve
             time = 16 * day + period
             new_single_class['assigned_time'] = [time]
             reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 1,
-                         group)
+                         group, reserve_department_groups)
         # reserve multiple times (2 times) for a lecture classes
         elif class_length in ("2", "3") and class_type == 'P':
             print("***state 5***")
@@ -139,39 +149,48 @@ def assign_time(day, period, class_length, class_type, new_single_class, reserve
             time2 = 16 * 3 + period
             new_single_class['assigned_time'] = time, time2
             reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 5,
-                         group)
+                         group, reserve_department_groups)
             reserve_time(time2, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 5,
-                         group)
+                         group, reserve_department_groups)
         # reserve 1 time for a lecture class that is one hour only
         elif class_length == "1" and class_type == 'P':
             print("***state 6***")
             time = 16 * day + period
             new_single_class['assigned_time'] = [time]
             reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class, subjects, 6,
-                         group)
+                         group, reserve_department_groups)
 
 
 # reserve the time chosen for all other chromosomes like professors, classrooms, and groups
 def reserve_time(time, reserve_professor, reserve_classroom, reserve_group, new_single_class,
-                 subjects, state, group):
+                 subjects, state, group, reserve_department_groups):
     if state == 1:
         # print("time= " + str(time))
         for i in range(time, time + 4):
             reserve_professor[i] += 1
             reserve_classroom[i] += 1
-            reserve_group[i] += 1
+            for single_group in reserve_group:
+                single_group[i] += 1
+            for single_department_groups in reserve_department_groups:
+                single_department_groups[i] += 1
         subjects[new_single_class['Subject']][new_single_class['Type']].append((time, new_single_class['for'], group))
     elif state == 2 or state == 3 or state == 6:
         for i in range(time, time + 2):
             reserve_professor[i] += 1
             reserve_classroom[i] += 1
-            reserve_group[i] += 1
+            for single_group in reserve_group:
+                single_group[i] += 1
+            for single_department_groups in reserve_department_groups:
+                single_department_groups[i] += 1
         subjects[new_single_class['Subject']][new_single_class['Type']].append((time, new_single_class['for'], group))
     elif state == 5:
         for i in range(time, time + 3):
             reserve_professor[i] += 1
             reserve_classroom[i] += 1
-            reserve_group[i] += 1
+            for single_group in reserve_group:
+                single_group[i] += 1
+            for single_department_groups in reserve_department_groups:
+                single_department_groups[i] += 1
         subjects[new_single_class['Subject']][new_single_class['Type']].append((time, new_single_class['for'], group))
 
 
@@ -184,12 +203,14 @@ def write_data2(data, path):
     with open(path, 'w') as write_file:
         json.dump(data, write_file)
 
-
 if __name__ == "__main__":
-    input_file = 'classes/2nd iug_input v4 first_solution.json'
-    output_file = 'classes/iug_output v4.json'
-    chromosome_file = 'classes/chromosome v4.json'
+    input_file = 'classes/2nd iug_input v4 first_solution v12.json'
+    # output_file = 'classes/iug_output v11.json'
+    chromosome_file = 'classes/chromosome new input data 31.json'
     da = load_data(input_file)
-    chromosome = generate_chromosome(da[0], da[1])
-    write_data(chromosome[0], output_file)
+    chromosome = generate_chromosome(da[0], da[1], da[2])
+    # write_data(chromosome[0], output_file)
     write_data2(chromosome, chromosome_file)
+
+    # cost_function = cost_functionsNEW.cost
+    # ft = cost_function(chromosome)
